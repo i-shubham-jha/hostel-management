@@ -1,0 +1,13 @@
+.hidden{
+    display: none;
+}
+
+.zoomOnHover
+{
+    transition: transform .2s;
+}
+
+.zoomOnHover:hover
+{
+    transform: scale(1.08);
+}

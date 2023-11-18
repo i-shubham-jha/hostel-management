@@ -12,8 +12,8 @@ This project is a web-based application designed to manage hostel facilities and
 
 ## Technologies Used
 
-- **Frontend:** HTML, CSS, JavaScript
+- **Frontend:** HTML, CSS, JavaScript, Bootstrap 5
 - **Backend:** Firebase
-- **Database:** Firebase
+- **Database:** Firebase's Firestore
 - **Other Tools:** Git
 

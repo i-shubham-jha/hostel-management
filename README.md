@@ -17,3 +17,10 @@ This project is a web-based application designed to manage hostel facilities and
 - **Database:** Firebase's Firestore
 - **Other Tools:** Git
 
+## Contributer
+Shubham Jha - Owner
+Yash Kamal Saxena
+Chiranjeev Jauhari 
+Jayansh Sharma
+Yogesh Yadav
+
